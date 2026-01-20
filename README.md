@@ -1,4 +1,4 @@
-gota Kelompok
+Anggota Kelompok
 
 1. Yandri
 
